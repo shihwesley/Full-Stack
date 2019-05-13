@@ -1,0 +1,3 @@
+[submodule "gitlab"]
+	path = gitlab
+	url = https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCBBERK201905FSF3-FT.git
