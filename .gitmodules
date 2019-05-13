@@ -1,3 +1,6 @@
 [submodule "gitlab"]
 	path = gitlab
 	url = https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCBBERK201905FSF3-FT.git
+[submodule "classwork"]
+	path = classwork
+	url = https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCBBERK201905FSF3-FT.git
